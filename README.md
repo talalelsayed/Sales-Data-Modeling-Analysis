@@ -8,7 +8,7 @@ This project focuses on analyzing sales data using Power BI. The dataset was ext
 - DAX
 - Microsoft Excel
 
-## 📂 Dataset Description
+##  Dataset Description
 The dataset includes the following fields:
 - Transaction ID
 - Order ID & Order Date
@@ -18,12 +18,12 @@ The dataset includes the following fields:
 - Location (Region, State, City, Postal Code)
 - Sales, Quantity, Discount, Profit
 
-## 🧱 Data Modeling
+##  Data Modeling
 - Built a star schema data model.
 - Created relationships between fact and dimension tables (Customer, Product, Location, Date).
 - Optimized the model for analytical performance.
 
-## 📐 DAX Measures
+##  DAX Measures
 - Total Sales
 - Total Profit
 - Quantity Sold
